@@ -9,3 +9,5 @@ Sun TOUR;Болгарія;Софія;морський відпочинок;http:
 Join UP!;Україна;Київ;подорожі по світу;http://surl.li/dunef
 Coral travel;Україна;Київ;відпочинок коло моря;http://surl.li/duoaz
 ЕдемТур;Україна;Івано-Франківськ;тури Європою;http://surl.li/duucx
+Coral travel;Україна;Київ;відпочинок коло моря;http://surl.li/duoaz
+ЕдемТур;Україна;Івано-Франківськ;тури Європою;http://surl.li/duucx
